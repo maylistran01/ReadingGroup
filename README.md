@@ -15,6 +15,7 @@ Additional support: Bayesian Data Analysis (Chapter 5: **Hierarchical models** &
 [[`textbook`](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf)]
 
 
+
 ## Past meetings
 
 #### Sept 15: 15:15-16:45pm.
